@@ -27,11 +27,11 @@ body{
 }
 #navbar ul li a{
 	text-decoration:none;
-	font-family:arial;
+	font-family:verdana;
 	padding:5px;
 	color:#fff;
 	font-size:26px;
-	font-style:italic;
+	font-style:bold;
 	background-color:#000;
 }
 #navbar ul li a:hover{
